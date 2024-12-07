@@ -3,7 +3,10 @@
 
 Jogo de cartas do Yo-Gi-Oh! desenvolvido com Javascript e CSS durante o desafio de projeto da Dio.
 
+[Clique aqui](https://pedroallysson.github.io/Yu-Gi-Oh-Jo-ken-po-Edition/) para acessar o resultado final do jogo!
 
+
+![yu-gi-oh jo-ke-po](https://github.com/user-attachments/assets/1e709959-b3ec-4d4e-8d1a-f6034479548b)
 
 
 ## Tecnologias utilizadas
